@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 [Full 2024 acadmeic CV available here](https://drive.google.com/file/d/17pvRArRY1ORLNc26Waw0Q41Mq9l2J3DB/view?usp=sharing)
 
 Education
@@ -28,7 +26,7 @@ Work experience
   * GEOG 272 – The Natural Environment: Air and Water
 
 * 2018 - 2019: Research Assistant
-  * CSIM Climat Lab at Concordia University
+  * CSIM Climate Lab at Concordia University
   * Duties – managing the development of emissions calculator web application
   * Supervisor: Damon Matthews
 
