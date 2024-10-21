@@ -1,5 +1,5 @@
 ---
-title: "Fire weather projections app"
+title: "Fire Weather Projections Visualization App"
 excerpt: "<br/><img src='/images/cd_fwi_app.png'>"
 collection: portfolio
 ---
