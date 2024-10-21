@@ -4,12 +4,12 @@
 
 $(document).ready(function(){
   // Sticky footer
-  var bumpIt = function() {
-      $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
-    },
-    didResize = false;
+  // var bumpIt = function() {
+  //     $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
+  //   },
+  //   didResize = false;
 
-  bumpIt();
+  // bumpIt();
 
   $(window).resize(function() {
     didResize = true;
