@@ -8,13 +8,16 @@ redirect_from:
 ---
 {% include base_path %}
 
-<object data="https://drive.google.com/file/d/17pvRArRY1ORLNc26Waw0Q41Mq9l2J3DB/view?usp=drive_link" type="application/pdf" width="100%" height="100%">
-  <p>Alternative text - include a link <a href="https://drive.google.com/file/d/17pvRArRY1ORLNc26Waw0Q41Mq9l2J3DB/view?usp=drive_link">to the PDF!</a></p>
-</object>
+<iframe 
+  src="https://drive.google.com/file/d/17pvRArRY1ORLNc26Waw0Q41Mq9l2J3DB/view?usp=drive_link" 
+  width="100%" 
+  height="300px"
+  style="border: none;">
+</iframe>
 
-[Full 2024 acadmeic CV available here](https://drive.google.com/file/d/17pvRArRY1ORLNc26Waw0Q41Mq9l2J3DB/view?usp=sharing)
+[PDF of 2024 acadmeic CV available here](https://drive.google.com/file/d/17pvRArRY1ORLNc26Waw0Q41Mq9l2J3DB/view?usp=sharing)
 
-Education
+<!-- Education
 ======
 * PhD in Geography, Urban and Environmental Studies, Concordia University, 2025 (expected)
 * MSc in Geography, Urban and Environmental Studies, GitHub University, 2020 (fast-tracked to PhD)
@@ -43,5 +46,5 @@ Skills
 * Python
   * Data visualization, data science, and statistical data analysis
 * Public speaking
-  * Lectures, workshops, radio and TV interviews
+  * Lectures, workshops, radio and TV interviews -->
 
