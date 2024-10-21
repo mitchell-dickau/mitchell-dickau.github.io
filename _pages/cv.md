@@ -8,6 +8,10 @@ redirect_from:
 ---
 {% include base_path %}
 
+<object data="CV.pdf" type="application/pdf" width="100%" height="100%">
+  <p>Alternative text - include a link <a href="https://drive.google.com/file/d/17pvRArRY1ORLNc26Waw0Q41Mq9l2J3DB/view?usp=drive_link">to the PDF!</a></p>
+</object>
+
 [Full 2024 acadmeic CV available here](https://drive.google.com/file/d/17pvRArRY1ORLNc26Waw0Q41Mq9l2J3DB/view?usp=sharing)
 
 Education
