@@ -9,56 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+[Full 2024 acadmeic CV available here](https://drive.google.com/file/d/17pvRArRY1ORLNc26Waw0Q41Mq9l2J3DB/view?usp=sharing)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Geography, Urban and Environmental Studies, Concordia University, 2025 (expected)
+* MSc in Geography, Urban and Environmental Studies, GitHub University, 2020 (fast-tracked to PhD)
+* BA in Human Geography, Concordia University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* October 2023 – Present: Student Researcher at ECCC - CCCS
+  * Duties - developing a web applicaiton for users to visualize, explore and/or download fire weather projection data
+  * Supervisor: Jermey Fyke
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2022: Undergraduate Lecturer
+  * Introductory physical geography course
+  * GEOG 272 – The Natural Environment: Air and Water
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2018 - 2019: Research Assistant
+  * CSIM Climat Lab at Concordia University
+  * Duties – managing the development of emissions calculator web application
+  * Supervisor: Damon Matthews
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Climate science
+* Climate modelling
+* Research
+* Python
+  * Data visualization, data science, and statistical data analysis
+* Public speaking
+  * Lectures, workshops, radio and TV interviews
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
