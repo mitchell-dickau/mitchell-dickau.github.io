@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mitchell Dickau"
+title                    : "Mitchell's Homepage"
 title_separator          : "-"
 name                     : &name "Mitchell Dickau"
 description              : &description "PhD candidate studying climate science"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "mitchell-dickau-b6269013b"
+  linkedin         : "www.linkedin.com/in/mitchell-dickau-b6269013b"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
