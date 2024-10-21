@@ -9,9 +9,9 @@ redirect_from:
 {% include base_path %}
 
 <iframe 
-  src="https://drive.google.com/file/d/17pvRArRY1ORLNc26Waw0Q41Mq9l2J3DB/view?usp=drive_link" 
+  src="https://drive.google.com/file/d/17pvRArRY1ORLNc26Waw0Q41Mq9l2J3DB/view" 
   width="100%" 
-  height="300px"
+  height="400px"
   style="border: none;">
 </iframe>
 
