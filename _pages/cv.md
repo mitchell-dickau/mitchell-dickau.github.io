@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-[PDF of 2024 acadmeic CV available here](https://drive.google.com/file/d/17pvRArRY1ORLNc26Waw0Q41Mq9l2J3DB/view?usp=sharing)
+[PDF acadmeic CV available here](https://drive.google.com/file/d/1kyu4IS8D6-poNdZXpdzyOoLsF8RXqR9e/view?usp=sharing)
 
 <iframe 
   src="/files/CV_2025_MDickau.pdf"
