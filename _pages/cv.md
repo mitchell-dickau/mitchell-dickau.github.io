@@ -11,7 +11,7 @@ redirect_from:
 [PDF of 2024 acadmeic CV available here](https://drive.google.com/file/d/17pvRArRY1ORLNc26Waw0Q41Mq9l2J3DB/view?usp=sharing)
 
 <iframe 
-  src="/files/CV_2024_MDickau.pdf"
+  src="/files/CV_2025_MDickau.pdf"
   width="100%" 
   height="600px"
   style="border: none;">
