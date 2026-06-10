@@ -1,5 +1,5 @@
 ---
-title: "Dean’s List"
+title: "Dean's List"
 collection: awards
 type: "Honor"
 permalink: /awards/2018-05-01-deans-list

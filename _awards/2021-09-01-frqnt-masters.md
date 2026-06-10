@@ -1,5 +1,5 @@
 ---
-title: "FRQNT - Master’s Scholarship (B1X)"
+title: "FRQNT - Master's Scholarship (B1X)"
 collection: awards
 type: "Scholarship"
 permalink: /awards/2021-09-01-frqnt-masters

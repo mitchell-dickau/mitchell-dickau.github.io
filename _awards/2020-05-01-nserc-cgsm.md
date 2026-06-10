@@ -1,5 +1,5 @@
 ---
-title: "NSERC CGS Master’s Scholarship"
+title: "NSERC CGS Master's Scholarship"
 collection: awards
 type: "Scholarship"
 permalink: /awards/2020-05-01-nserc-cgsm
