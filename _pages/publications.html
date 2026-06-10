@@ -11,9 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
@@ -21,16 +20,31 @@ author_profile: true
       {% endif %}
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
+        <ul>
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      <li style="margin-bottom: 10px;">
+        {% if post.citation %}
+          {% capture title_link %}<a href="{{ post.paperurl | default: post.url }}">{{ post.title }}</a>{% endcapture %}
+          {{ post.citation | replace: post.title, title_link }}
+        {% else %}
+          <a href="{{ post.paperurl | default: post.url }}"><strong>{{ post.title }}</strong></a>, {{ post.venue }}, {{ post.date | date: "%Y" }}
+        {% endif %}
+      </li>
     {% endfor %}
+    {% if title_shown %}</ul>{% endif %}
   {% endfor %}
 {% else %}
+  <ul>
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    <li style="margin-bottom: 10px;">
+      {% if post.citation %}
+        {% capture title_link %}<a href="{{ post.paperurl | default: post.url }}">{{ post.title }}</a>{% endcapture %}
+        {{ post.citation | replace: post.title, title_link }}
+      {% else %}
+        <a href="{{ post.paperurl | default: post.url }}"><strong>{{ post.title }}</strong></a>, {{ post.venue }}, {{ post.date | date: "%Y" }}
+      {% endif %}
+    </li>
   {% endfor %}
+  </ul>
 {% endif %}
-
-
-
