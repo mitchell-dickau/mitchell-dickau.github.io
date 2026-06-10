@@ -39,8 +39,24 @@
   }
 }
 
+.archive__item {
+  margin-bottom: 2em;
+  padding: 1.5em;
+  background: #fff;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transition: $global-transition;
+
+  &:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-color: mix(#fff, $primary-color, 75%);
+  }
+}
+
 .archive__item-title {
   margin-bottom: 0.25em;
+  margin-top: 0 !important;
   font-family: $sans-serif-narrow;
 
   a + a {
