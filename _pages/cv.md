@@ -8,10 +8,10 @@ redirect_from:
 ---
 {% include base_path %}
 
-[PDF acadmeic CV available here](https://drive.google.com/file/d/1kyu4IS8D6-poNdZXpdzyOoLsF8RXqR9e/view?usp=sharing)
+[PDF academic CV available here](https://drive.google.com/file/d/1aKqKF1Zz-MWaFVtCI2oCADedLPnRh2oE/view?usp=drive_link)
 
 <iframe 
-  src="/files/CV_2025_MDickau.pdf"
+  src="/files/CV_MDickau.pdf"
   width="100%" 
   height="600px"
   style="border: none;">
@@ -28,7 +28,7 @@ redirect_from:
 Work experience
 ======
 * October 2023 – Present: Student Researcher at ECCC - CCCS
-  * Duties - developing a web applicaiton for users to visualize, explore and/or download fire weather projection data
+  * Duties - developing a web application for users to visualize, explore and/or download fire weather projection data
   * Supervisor: Jermey Fyke
 
 * Winter 2022: Undergraduate Lecturer
