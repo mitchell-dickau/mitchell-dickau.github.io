@@ -1,5 +1,5 @@
 ---
-title: "Temporary nature-based carbon removal can lower peak warming in a well-below 2 °C scenario"
+title: "Temporary nature-based carbon removal can lower peak warming in a well-below 2 &deg;C scenario"
 collection: conferences
 type: "Conference Presentation"
 permalink: /conferences/2022-05-23-egu-removal
